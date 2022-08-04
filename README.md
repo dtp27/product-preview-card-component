@@ -24,11 +24,13 @@ This is my solution to the Product Preview Card Component challenge from Fronten
 
 Users should be able to:
 
--
+- Hover over the buy button, adjust the dimensions of the component and it wll responsively adjust.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot-mobile.jpg)
+
+![](./screenshot-desktop.jpg)
 
 
 ### Links
