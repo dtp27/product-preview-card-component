@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/dtp27/product-preview-card-component)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://dtp27.github.io/product-preview-card-component/)
 
 ## My process
 1. Structure out the web page using HTML
