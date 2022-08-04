@@ -39,7 +39,9 @@ Users should be able to:
 - Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
-1. 
+1. Structure out the web page using HTML
+2. General CSS styles
+3. More targeted CSS styles
 
 ### Built with
 
